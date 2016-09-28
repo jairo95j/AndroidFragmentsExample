@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Fragments Example</string>
+    <string name="landscape_mode_text_view">In Landscape Fragment</string>
+    <string name="portrait_mode_text_view">In Portrait Fragment</string>
+</resources>
